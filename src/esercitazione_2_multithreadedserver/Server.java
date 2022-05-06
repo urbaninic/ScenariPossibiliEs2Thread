@@ -34,7 +34,7 @@ public class Server {
         }
         
         /*
-        Svolte righe commentate su StartServer
+        Svolte seguenti righe commentate su StartServer
         // scegliere uno dei due metodi alternativi per chiamata a metodo onListen()
         // this.onListen();
         // onListen();

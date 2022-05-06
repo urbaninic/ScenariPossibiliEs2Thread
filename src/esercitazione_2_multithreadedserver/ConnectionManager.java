@@ -26,8 +26,7 @@ public class ConnectionManager extends Thread{
         this.server = server;
     }
     
-    @Override
-    
+    @Override    
     public void run(){
         System.out.println("Metodo run in esecuzione!");
         server.scrivi("Ciao client");
